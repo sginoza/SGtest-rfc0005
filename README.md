@@ -21,6 +21,7 @@ The RPC has proposed edits in the RPC-edits branch.  Please work within this bra
 For the Issues, please either reply in the comments how the item should be resolved or submit a PR with the suggested fix.  If you choose to create a new pull request, please identify the issue it resolves in the comments.  The RFC Editor will close the issue when it has been addressed.  
 
 Note: For both comments and issues, please DO NOT use emojis to approve or disprove changes. 
+
 For any PRs created by the RPC, the editor expects feedback from at least one reviewer before merging the PR. We expect the other relevant parties will speak up if they disagree with any update.
 
 Once the content of the .md file is stable, the RPC will create an XML file. The following files will be provided for your review at that time:
