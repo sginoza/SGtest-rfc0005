@@ -1,5 +1,5 @@
 ---
-title: TEST - SVGs in RFCs
+title: TEST 3 - SVGs in RFCs
 docname: draft-editorial-rswg-svgsinrfcs-04
 venue:
   group: RSWG
